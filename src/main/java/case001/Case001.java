@@ -1,2 +1,6 @@
-package case001;public class Case001 {
+package case001;
+
+public class Case001 {
+
+
 }
